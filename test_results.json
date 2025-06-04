@@ -1,0 +1,724 @@
+{
+  "overall_accuracy": 71.75949050949052,
+  "total_test_cases": 14,
+  "detailed_results": [
+    {
+      "pdf": "Uploaded_Resumes/Aiswariya_A_K_22.pdf",
+      "fields": {
+        "name": {
+          "expected": "Aiswariya A K",
+          "actual": "Aiswariya A K",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "email": {
+          "expected": "aiswariyaazhageson22@gmail.com",
+          "actual": "aiswariyaazhageson22@gmail.com",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "predicted_field": {
+          "expected": "Software Development",
+          "actual": "Software Development",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "extracted_skills": {
+          "expected": [
+            "algorithms",
+            "python",
+            "git",
+            "github",
+            "android",
+            "mysql",
+            "postgresql",
+            "java",
+            "mongodb",
+            "data structures"
+          ],
+          "actual": [
+            "algorithms",
+            "python",
+            "git",
+            "github",
+            "android",
+            "mysql",
+            "java",
+            "postgresql",
+            "mongodb",
+            "data structures"
+          ],
+          "match": 1.0,
+          "weighted_score": 0.2
+        }
+      },
+      "case_score": 0.8
+    },
+    {
+      "pdf": "Uploaded_Resumes/resume (1).pdf",
+      "fields": {
+        "name": {
+          "expected": "SIVAKUMAR M",
+          "actual": "SIVAKUMAR M",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "email": {
+          "expected": "shivuuss160@gmail.com",
+          "actual": "shivuuss160@gmail.com",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "predicted_field": {
+          "expected": "Software Development",
+          "actual": "Software Development",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "extracted_skills": {
+          "expected": [
+            "python",
+            "problem-solving skills",
+            "c",
+            "html",
+            "sql",
+            "java",
+            "analytical skills",
+            "physics",
+            "javascript",
+            "css"
+          ],
+          "actual": [
+            "python",
+            "problem-solving skills",
+            "c",
+            "html",
+            "sql",
+            "java",
+            "analytical skills",
+            "physics",
+            "javascript",
+            "css"
+          ],
+          "match": 1.0,
+          "weighted_score": 0.2
+        }
+      },
+      "case_score": 0.8
+    },
+    {
+      "pdf": "Uploaded_Resumes/resume (3).pdf",
+      "fields": {
+        "name": {
+          "expected": "BHUVANESHWARI A",
+          "actual": "BHUVANESHWARI A",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "email": {
+          "expected": "bhuviarjun2022@gmail.com",
+          "actual": "bhuviarjun2022@gmail.com",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "predicted_field": {
+          "expected": "Software Development",
+          "actual": "Software Development",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "extracted_skills": {
+          "expected": [
+            "python",
+            "git",
+            "github",
+            "firebase",
+            "reactjs",
+            "html",
+            "sql",
+            "java",
+            "javascript",
+            "css"
+          ],
+          "actual": [
+            "python",
+            "git",
+            "github",
+            "firebase",
+            "reactjs",
+            "html",
+            "sql",
+            "java",
+            "javascript",
+            "css"
+          ],
+          "match": 1.0,
+          "weighted_score": 0.2
+        }
+      },
+      "case_score": 0.8
+    },
+    {
+      "pdf": "Uploaded_Resumes/George_Resume.pdf",
+      "fields": {
+        "name": {
+          "expected": "George Lifin Rell Vencislas",
+          "actual": "George Lifin Rell Vencislas",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "email": {
+          "expected": "georgelifinrell@gmailcom",
+          "actual": "georgelifinrellgmailcome",
+          "match": 0,
+          "weighted_score": 0.0
+        },
+        "predicted_field": {
+          "expected": "Software Development",
+          "actual": "Software Development",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "extracted_skills": {
+          "expected": [
+            "nextjs",
+            "python",
+            "web3",
+            "c",
+            "flask",
+            "c++",
+            "java",
+            "blockchain",
+            "javascript",
+            "expressjs"
+          ],
+          "actual": [
+            "nextjs",
+            "python",
+            "web3",
+            "c",
+            "flask",
+            "java",
+            "c++",
+            "blockchain",
+            "javascript",
+            "expressjs"
+          ],
+          "match": 1.0,
+          "weighted_score": 0.2
+        }
+      },
+      "case_score": 0.6000000000000001
+    },
+    {
+      "pdf": "Uploaded_Resumes/Pragatheeswaran_MCA.pdf",
+      "fields": {
+        "name": {
+          "expected": "PRAGATHEESWARAN P",
+          "actual": "PRAGATHEESWARAN P",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "email": {
+          "expected": "pragatheeswpgmailcom",
+          "actual": "pragatheeswpgmailcom",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "predicted_field": {
+          "expected": "Software Engineering",
+          "actual": "Software Engineering",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "extracted_skills": {
+          "expected": [
+            "nextjs",
+            "python",
+            "git",
+            "reactjs",
+            "html",
+            "java",
+            "linux basics",
+            "blockchain",
+            "javascript",
+            "css"
+          ],
+          "actual": [
+            "nextjs",
+            "python",
+            "git",
+            "reactjs",
+            "html",
+            "java",
+            "linux basics",
+            "blockchain",
+            "javascript",
+            "css"
+          ],
+          "match": 1.0,
+          "weighted_score": 0.2
+        }
+      },
+      "case_score": 0.8
+    },
+    {
+      "pdf": "Uploaded_Resumes/sandhiya .pdf",
+      "fields": {
+        "name": {
+          "expected": "SANDHIYA P",
+          "actual": "SANDHIYA P",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "email": {
+          "expected": "sandhiyap1714@gmail.com",
+          "actual": "sandhiyap1714@gmail.com",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "predicted_field": {
+          "expected": "Software Development",
+          "actual": "Software Development",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "extracted_skills": {
+          "expected": [
+            "full stack development",
+            "python",
+            "reactjs",
+            "django framework",
+            "html",
+            "sql",
+            "tamil",
+            "english",
+            "web technology",
+            "javascript",
+            "css"
+          ],
+          "actual": [
+            "full stack development",
+            "python",
+            "reactjs",
+            "django framework",
+            "html",
+            "sql",
+            "tamil",
+            "english",
+            "web technology",
+            "javascript",
+            "css"
+          ],
+          "match": 1.0,
+          "weighted_score": 0.2
+        }
+      },
+      "case_score": 0.8
+    },
+    {
+      "pdf": "Uploaded_Resumes/kirubakaran.pdf",
+      "fields": {
+        "name": {
+          "expected": "KIRUBAKARAN H",
+          "actual": "Kirubakaran H Regno",
+          "match": 0,
+          "weighted_score": 0.0
+        },
+        "email": {
+          "expected": "kirubakaranh29@gmail.com",
+          "actual": "kirubakaranh29@gmail.com",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "predicted_field": {
+          "expected": "Software Development",
+          "actual": "Software Development",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "extracted_skills": {
+          "expected": [
+            "python",
+            "quick learner",
+            "html",
+            "team behaviour",
+            "sql",
+            "java",
+            "tamil",
+            "critical thinking",
+            "english",
+            "time management"
+          ],
+          "actual": [
+            "python",
+            "quick learner",
+            "html",
+            "team behaviour",
+            "sql",
+            "java",
+            "tamil",
+            "critical thinking",
+            "english",
+            "time management"
+          ],
+          "match": 1.0,
+          "weighted_score": 0.2
+        }
+      },
+      "case_score": 0.6000000000000001
+    },
+    {
+      "pdf": "Uploaded_Resumes/lawyer.pdf",
+      "fields": {
+        "name": {
+          "expected": "SOPHIA ROBERTS",
+          "actual": "Sophia Roberts",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "email": {
+          "expected": "sroberts@email.com",
+          "actual": "sroberts@email.com",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "predicted_field": {
+          "expected": "legal",
+          "actual": "Legal",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "extracted_skills": {
+          "expected": [
+            "logicalreasoning",
+            "tax law ",
+            "master of criminal justice",
+            "persuasiveness",
+            "sound judgment"
+          ],
+          "actual": [
+            "tax law",
+            "high school",
+            "criminal law",
+            "examining elements",
+            "analytical thinking",
+            "logical reasoning",
+            "bachelor of science",
+            "master of criminal justice",
+            "persuasiveness",
+            "sound judgment"
+          ],
+          "match": 0.25,
+          "weighted_score": 0.05
+        }
+      },
+      "case_score": 0.6500000000000001
+    },
+    {
+      "pdf": "Uploaded_Resumes/MBA.pdf",
+      "fields": {
+        "name": {
+          "expected": "ESMIRANDA OHARE ",
+          "actual": "ESMIRANDA OHARE",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "email": {
+          "expected": "Esmiragemali.com ",
+          "actual": "esmiregemalicom@1234567870",
+          "match": 0,
+          "weighted_score": 0.0
+        },
+        "predicted_field": {
+          "expected": "BUSINESS OPERATIONS",
+          "actual": "Business Operations",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "extracted_skills": {
+          "expected": [
+            "budgeting ",
+            "microsoft office",
+            "negotiation",
+            "problem solving",
+            "excel",
+            "presentations ",
+            "business analysis",
+            "finance expertise",
+            "presentations",
+            "powes pofnt "
+          ],
+          "actual": [
+            "budgeting",
+            "microsoft office",
+            "project management",
+            "negotiation",
+            "problem solving",
+            "excel",
+            "finance expertise",
+            "business analysis",
+            "presentations",
+            "powers pofnt"
+          ],
+          "match": 0.5384615384615384,
+          "weighted_score": 0.1076923076923077
+        }
+      },
+      "case_score": 0.5076923076923077
+    },
+    {
+      "pdf": "Uploaded_Resumes/RESUME (4).pdf",
+      "fields": {
+        "name": {
+          "expected": "Chandru V",
+          "actual": "Chandru V",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "email": {
+          "expected": "chandrumelur4@gmail.com",
+          "actual": "chandrumelur4@gmail.com",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "predicted_field": {
+          "expected": "IT",
+          "actual": "IT",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "extracted_skills": {
+          "expected": [
+            "micrsoft office",
+            "hard working",
+            "basic typing skills",
+            "time management",
+            "good communication",
+            "honest"
+          ],
+          "actual": [
+            "microsoft office",
+            "hard working",
+            "basic typing skills",
+            "time management",
+            "punctual",
+            "good communication",
+            "honest"
+          ],
+          "match": 0.625,
+          "weighted_score": 0.125
+        }
+      },
+      "case_score": 0.7250000000000001
+    },
+    {
+      "pdf": "Uploaded_Resumes/Doctor.pdf",
+      "fields": {
+        "name": {
+          "expected": "Dr Deepak Sachdeva",
+          "actual": "Dr Deepak Sachdeva",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "email": {
+          "expected": "drdeepaksachdevagmailcom",
+          "actual": "drdeepaksachdevagmailcom",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "predicted_field": {
+          "expected": "Healthcare",
+          "actual": "Healthcare",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "extracted_skills": {
+          "expected": [
+            "medical advice",
+            "emergency handling",
+            "family medicine",
+            "healthcare guidelines adherence",
+            "public health",
+            "compassion",
+            "diagnosis",
+            "patient assessments",
+            "treatment",
+            "medication prescription'"
+          ],
+          "actual": [
+            "medical advice",
+            "emergency handling",
+            "healthcare guidelines adherence",
+            "family medicine",
+            "public health",
+            "compassion",
+            "medication prescription",
+            "diagnosis",
+            "patient assessments",
+            "treatment"
+          ],
+          "match": 0.8181818181818182,
+          "weighted_score": 0.16363636363636366
+        }
+      },
+      "case_score": 0.7636363636363638
+    },
+    {
+      "pdf": "Uploaded_Resumes/marimuthu resume.pdf",
+      "fields": {
+        "name": {
+          "expected": "Marimuthu A",
+          "actual": "MarimuthuA",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "email": {
+          "expected": "mmuthua7@gmail.com",
+          "actual": "mmuthua7@gmail.com",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "predicted_field": {
+          "expected": "Software Development",
+          "actual": "Software Development",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "extracted_skills": {
+          "expected": [
+            "music",
+            "good communication skills",
+            "python",
+            "html",
+            "ms excel",
+            "fast learner",
+            "good learning quickly",
+            "ms office",
+            "carrom",
+            "dbms"
+          ],
+          "actual": [
+            "music",
+            "good communication skills",
+            "python",
+            "html",
+            "ms excel",
+            "fast learner",
+            "good learning quickly",
+            "ms office",
+            "carrom",
+            "dbms"
+          ],
+          "match": 1.0,
+          "weighted_score": 0.2
+        }
+      },
+      "case_score": 0.8
+    },
+    {
+      "pdf": "Uploaded_Resumes/Resume (Sakthivel).pdf",
+      "fields": {
+        "name": {
+          "expected": "SAKTHIVEL G",
+          "actual": "Sakthivel G",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "email": {
+          "expected": "sakthivelg0308@gmail.com",
+          "actual": "sakthivelg0308@gmail.com",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "predicted_field": {
+          "expected": "Software Engineering",
+          "actual": "Software Engineering",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "extracted_skills": {
+          "expected": [
+            "web development",
+            "python",
+            "software development",
+            "problem solving",
+            "react framework",
+            "excel",
+            "git and github",
+            "mysql",
+            "mobile app development",
+            "java"
+          ],
+          "actual": [
+            "web development",
+            "python",
+            "software development",
+            "problem solving",
+            "react framework",
+            "excel",
+            "mysql",
+            "mobile app development",
+            "git and github",
+            "java"
+          ],
+          "match": 1.0,
+          "weighted_score": 0.2
+        }
+      },
+      "case_score": 0.8
+    },
+    {
+      "pdf": "Uploaded_Resumes/Karunakaran_Resume.pdf",
+      "fields": {
+        "name": {
+          "expected": "KARUNAKARAN K",
+          "actual": "KARUNAKARAN K",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "email": {
+          "expected": "karunakaran30062003gmail.com",
+          "actual": "karunakaran30062003@gmail.com",
+          "match": 0,
+          "weighted_score": 0.0
+        },
+        "predicted_field": {
+          "expected": "Software Development",
+          "actual": "Software Development",
+          "match": 1,
+          "weighted_score": 0.2
+        },
+        "extracted_skills": {
+          "expected": [
+            "python",
+            "collaboration",
+            "html",
+            "mysql",
+            "php",
+            "java",
+            "postgresql",
+            "communication",
+            "javascript",
+            "css"
+          ],
+          "actual": [
+            "python",
+            "collaboration",
+            "html",
+            "mysql",
+            "php",
+            "java",
+            "postgresql",
+            "communication",
+            "javascript",
+            "css"
+          ],
+          "match": 1.0,
+          "weighted_score": 0.2
+        }
+      },
+      "case_score": 0.6000000000000001
+    }
+  ]
+}

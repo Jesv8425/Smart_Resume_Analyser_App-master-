@@ -1,0 +1,296 @@
+[
+    {
+        "path": "Uploaded_Resumes/Aiswariya_A_K_22.pdf",
+        "output": {
+            "name": "Aiswariya A K",
+            "email": "aiswariyaazhageson22@gmail.com",
+            "predicted_field": "Software Development",
+            "extracted_skills": [
+                "Mysql",
+                "postgresql",
+                "android",
+                "data structures",
+                "algorithms",
+                "java",
+                "Python",
+                "git",
+                "github",
+                "mongodb"
+            ],
+            "experience_level": "Senior"
+        }
+    },
+    {
+       "path" : "Uploaded_Resumes/resume (1).pdf",
+       "output":{
+           "name": "SIVAKUMAR M",
+           "email": "shivuuss160@gmail.com",
+           "predicted_field": "Software Development",
+           "experience_level": "Entry",
+           "extracted_skills": [
+            "css",
+            "analytical skills",
+            "html",
+            "sql",
+            "problem-solving skills",
+             "c",
+            "java",
+             "python",
+            "javascript",
+            "physics"
+           ]
+       }
+    },
+    {
+        "path":"Uploaded_Resumes/resume (3).pdf",
+        "output":{
+            "name":"BHUVANESHWARI A",
+            "email":"bhuviarjun2022@gmail.com",
+            "experience_level":"Mid",
+            "predicted_field":"Software Development",
+            "extracted_skills":[
+                "html",
+                "css",
+                "javascript",
+                "java",
+                "python",
+                "sql",
+                "firebase",
+                "reactjs",
+                "git" ,
+                "github"
+                
+            ]
+        }
+
+    },
+    {
+        "path":"Uploaded_Resumes/George_Resume.pdf",
+        "output":{
+            "name":"George Lifin Rell Vencislas",
+            "email":"georgelifinrell@gmailcom",
+            "experience_level":"Senior",
+            "predicted_field":"Software Development",
+            "extracted_skills":[
+                "blockchain",
+                "javascript",
+                "c++",
+                "python",
+                "c", 
+                "java",
+                "expressjs",
+                "web3",
+                "flask",
+                "nextjs"
+               
+
+
+            ]
+        }
+    
+    },
+    {
+        "path":"Uploaded_Resumes/Pragatheeswaran_MCA.pdf",
+        "output":{
+            "name":"PRAGATHEESWARAN P",
+            "email":"pragatheeswpgmailcom",
+            "experience_level":"Mid",
+            "predicted_field":"Software Engineering",
+            "extracted_skills":[
+                "java",
+                "python",
+                "html",
+                "css",
+                "javascript",
+                "reactjs",
+                "nextjs",
+                "linux basics",
+                "git",
+                "blockchain"
+            ]
+
+        }
+    },
+    {
+        "path":"Uploaded_Resumes/sandhiya .pdf",
+        "output":{
+            "name":"SANDHIYA P",
+            "email":"sandhiyap1714@gmail.com",
+            "experience_level":"Entry",
+            "predicted_field":"Software Development",
+            "extracted_skills":[
+                "javascript",
+                "html",
+                "python",
+                "english",
+                "full stack development",
+                "django framework",
+                "web technology",
+                "css",
+                "reactjs",
+                "tamil",
+                "sql"
+            ]
+        }
+    },
+    {
+        "path":"Uploaded_Resumes/kirubakaran.pdf",
+        "output":{
+           "name":"KIRUBAKARAN H",
+           "email":"kirubakaranh29@gmail.com",
+           "predicted_field":"Software Development",
+           "extracted_skills":[
+            "sql",
+            "critical thinking",
+             "team behaviour",
+            "html", 
+            "python", 
+            "quick learner", 
+            "english",
+            "java",
+            "time management",
+            "tamil"
+           ]
+        }
+    },
+    {
+        "path":"Uploaded_Resumes/lawyer.pdf",
+        "output":{
+            "name":"SOPHIA ROBERTS",
+            "email":"sroberts@email.com",
+            "predicted_field":"legal",
+            "extracted_skills":[
+                "tax law ",
+                "sound judgment",
+                "logicalreasoning",
+                "persuasiveness",
+                "master of criminal justice"
+
+
+            ]
+        }
+    },
+    {
+        "path":"Uploaded_Resumes/MBA.pdf",
+        "output":{
+            "name":"ESMIRANDA OHARE ",
+            "email":"Esmiragemali.com ",
+            "predicted_field":"BUSINESS OPERATIONS",
+            "extracted_skills":[
+                "presentations ",
+                "budgeting ",
+                "microsoft office",
+                "powes pofnt ",
+                "negotiation",
+                "problem solving",
+                "excel",
+                "business analysis",
+                "finance expertise",
+                "presentations"
+                
+            ]
+        }
+    },
+    {
+        "path":"Uploaded_Resumes/RESUME (4).pdf",
+        "output":{
+            "name":"Chandru V",
+            "email":"chandrumelur4@gmail.com",
+            "predicted_field":"IT",
+            "experience_level":"Entry",
+            "extracted_skills":[
+                "micrsoft office",
+                "basic typing skills",
+                "good communication",
+                "time management",
+                "honest",
+                "hard working"
+            ]
+        }
+    },
+    {
+        "path":"Uploaded_Resumes/Doctor.pdf",
+        "output":{
+            "name":"Dr Deepak Sachdeva",
+            "email":"drdeepaksachdevagmailcom",
+            "predicted_field":"Healthcare",
+            "extracted_skills":[
+                "medical advice",
+                "treatment",
+                "patient assessments",
+                "healthcare guidelines adherence",
+                "family medicine",
+                "diagnosis",
+                "compassion",
+                "public health",
+                "emergency handling",
+                "medication prescription'"
+            ]
+        }
+    },
+    {
+        "path":"Uploaded_Resumes/marimuthu resume.pdf",
+        "output":{
+            "name":"Marimuthu A",
+            "email":"mmuthua7@gmail.com",
+            "predicted_field":"Software Development",
+            "experience_level":"Entry",
+            "extracted_skills":[
+                "ms office",
+                "dbms",
+                "ms excel", 
+                "carrom",
+                "music",
+                "good communication skills",
+                "good learning quickly",
+                "python",
+                "html",
+                "fast learner"
+            ]
+        }
+    },
+    {
+        "path":"Uploaded_Resumes/Resume (Sakthivel).pdf",
+        "output":{
+            "name":"SAKTHIVEL G",
+            "email":"sakthivelg0308@gmail.com",
+            "predicted_field":"Software Engineering",
+            "experience_level":"Mid",
+            "extracted_skills":[
+                "problem solving",
+                "git and github",
+                "software development",
+                "excel", 
+                "mysql",
+                "python",
+                "java",
+                "web development", 
+                "react framework",
+                "mobile app development"
+            ]
+        }
+    },
+    {
+        "path":"Uploaded_Resumes/Karunakaran_Resume.pdf",
+        "output":{
+            "name":"KARUNAKARAN K",
+            "email":"karunakaran30062003gmail.com",
+            "experience_level":"Mid",
+            "predicted_field":"Software Development",
+            "extracted_skills":[
+                "python",
+                "java",
+                "postgresql",
+                "mysql",
+                "html",
+                "css",
+                "php",
+                "javascript",
+                "collaboration",
+                "communication"
+                        
+         ]
+        }
+    }
+
+]
