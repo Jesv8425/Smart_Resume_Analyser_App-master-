@@ -30,7 +30,9 @@ streamlit run App.py
 Uploaded_Resumes folder is contaning the user's uploaded resumes.
 Classifier.py is the main file which is containing a KNN Algorithm.
 For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
-Admin side credentials is machine_learning_hub and password is mlhub123.<img width="1440" alt="Screenshot 2025-06-04 at 8 28 08 AM" src="https://github.com/user-attachments/assets/7d4e8d58-74e0-446b-9fb3-7cdf3cc3d501" />
+Admin side credentials is machine_learning_hub and password is mlhub123.
+
+<img width="1440" alt="Screenshot 2025-06-04 at 8 28 08 AM" src="https://github.com/user-attachments/assets/7d4e8d58-74e0-446b-9fb3-7cdf3cc3d501" />
 <img width="1440" alt="Screenshot 2025-06-04 at 8 28 49 AM" src="https://github.com/user-attachments/assets/bcc745b9-a6d6-4559-930e-a5496bdc4780" />
 <img width="1440" alt="Screenshot 2025-06-04 at 8 28 58 AM" src="https://github.com/user-attachments/assets/1e300a9f-4012-44de-b9cb-5c494fa682b8" />
 <img width="1440" alt="Screenshot 2025-06-04 at 8 29 04 AM" src="https://github.com/user-attachments/assets/53c8ee54-a913-471d-ab28-4d452363663b" />
